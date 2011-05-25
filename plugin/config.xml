@@ -1,0 +1,16 @@
+<plugin>
+<name>IE6 Blocker</name>
+<package>IE6Blocker</package>
+<version>1.0.0</version>
+<provider>Gencia Media Ltd</provider>
+<providerURL>http://www.gencia.co.uk</providerURL>
+<category>jQuery</category>
+<directoryFormat>packageOnly</directoryFormat>
+<settings>
+</settings>
+<eventHandlers>
+	<eventHandler event="onRenderStart" component="eventHandlers.pageRender" persist="false" />
+</eventHandlers>
+<displayobjects location="global">
+</displayobjects>
+</plugin>

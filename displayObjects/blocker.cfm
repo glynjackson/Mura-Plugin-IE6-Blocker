@@ -1,0 +1,1 @@
+﻿<cfoutput><script src="plugins/IE6Blocker/assets/js/jquery.ie6blocker.js" type="text/javascript"></script></cfoutput>
